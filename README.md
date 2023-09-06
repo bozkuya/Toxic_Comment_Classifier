@@ -23,7 +23,7 @@ This repository contains a real-time data processing pipeline to moderate live c
 ## System Design
 
 - **High-Level Design (HLD)**: https://github.com/bozkuya/Toxic_Comment_Classifier/blob/main/System%20Design%20Task.pdf
-- **Low-Level Design (LLD)**: [Link to LLD Document](./docs/LLD.md)
+- **Low-Level Design (LLD)**: [Link to LLD Document](https://github.com/bozkuya/Toxic_Comment_Classifier/blob/main/System%20Design%20Task.pdf)
 
 ## Installation and Setup
 
