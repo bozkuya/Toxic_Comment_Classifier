@@ -29,9 +29,9 @@ def classify_comment(comment):
 # You can change this according to database you created.
 try:
     conn = psycopg2.connect(
-        database="postgres",
+        database="Database Name",
         user="postgres",
-        password="BaranOpamp1.",
+        password="Add your PostgreSQL Password",
         host="localhost",
         port="5432"
     )
@@ -50,7 +50,7 @@ def batch_store_in_db(data):
 
 # Define constants for YouTube API
 # API key must be there
-API_KEY = "AIzaSyCWkaul6AWgNBT5v5Zd2VYVp_HU3LcrQqo"
+API_KEY = "You should add your API key here!"
 
 BASE_URL = "https://www.googleapis.com/youtube/v3/search"
 BASE_CHAT_URL = "https://www.googleapis.com/youtube/v3/liveChat/messages"
