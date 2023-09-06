@@ -22,7 +22,7 @@ This repository contains a real-time data processing pipeline to moderate live c
 
 ## System Design
 
-- **High-Level Design (HLD)**: https://github.com/bozkuya/Toxic_Comment_Classifier/blob/main/System%20Design%20Task.pdf
+- **High-Level Design (HLD)**: [Link to HLD Document](https://github.com/bozkuya/Toxic_Comment_Classifier/blob/main/System%20Design%20Task.pdf)
 - **Low-Level Design (LLD)**: [Link to LLD Document](https://github.com/bozkuya/Toxic_Comment_Classifier/blob/main/System%20Design%20Task.pdf)
 
 ## Installation and Setup
@@ -35,5 +35,10 @@ This repository contains a real-time data processing pipeline to moderate live c
 
 ### Steps
 
-Clone the repository
--- git clone https://github.com/bozkuya/Toxic_Comment_Classifier.git
+1. Clone the repository.
+```bash
+git clone https://github.com/bozkuya/Toxic_Comment_Classifier.git
+```
+2. Navigate to the project directory and install the required Python packages.
+3. Add your YouTube API Key and PostgreSQL credentials.
+4. Run the script.
